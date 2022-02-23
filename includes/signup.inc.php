@@ -19,5 +19,5 @@
 		$signupController->signupUser();
 		
 		// Going back to front page
-		header("location: ../index.php?error=none");
+		header("location: ../index.php?error=signupnone");
 	}
